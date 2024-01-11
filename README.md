@@ -1,7 +1,6 @@
 # Tapping into the Natural Language System with Artificial Languages when Learning Programming
 
-This repository contains additional information to the [SIGCSE 2024]([https://icer2023.acm.org/](https://sigcse2024.sigcse.org/) paper:  
-Tapping into the Natural Language System with Artificial Languages when Learning Programming
+This repository contains additional information to our paper: "Tapping into the Natural Language System with Artificial Languages when Learning Programming".
 
 
 ## Appendix
